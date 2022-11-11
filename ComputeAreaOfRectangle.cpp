@@ -8,7 +8,7 @@ int main ()
     cout<<"Enter value of height: ";
     cin>>height;
     
-    cout<<"Enter value of width: "
+    cout<<"Enter value of width: ";
     cin>>width;
 
     area=height*width;
